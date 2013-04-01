@@ -18,6 +18,9 @@
 		4E0542BE16EAD82800BD3F5E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E0542BD16EAD82800BD3F5E /* Default-568h@2x.png */; };
 		4E0542C116EAD82800BD3F5E /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E0542BF16EAD82800BD3F5E /* MainStoryboard.storyboard */; };
 		4E0542C416EAD82800BD3F5E /* accelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E0542C316EAD82800BD3F5E /* accelViewController.m */; };
+		4E0542CB16EB4C8A00BD3F5E /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E0542CA16EB4C8A00BD3F5E /* CoreMotion.framework */; };
+		4E058123170170AF00186FE0 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E058122170170AF00186FE0 /* Icon.png */; };
+		4E058125170170F600186FE0 /* Icon2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E058124170170F600186FE0 /* Icon2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,9 @@
 		4E0542C016EAD82800BD3F5E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		4E0542C216EAD82800BD3F5E /* accelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = accelViewController.h; sourceTree = "<group>"; };
 		4E0542C316EAD82800BD3F5E /* accelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = accelViewController.m; sourceTree = "<group>"; };
+		4E0542CA16EB4C8A00BD3F5E /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		4E058122170170AF00186FE0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		4E058124170170F600186FE0 /* Icon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +50,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E0542CB16EB4C8A00BD3F5E /* CoreMotion.framework in Frameworks */,
 				4E0542A816EAD82800BD3F5E /* UIKit.framework in Frameworks */,
 				4E0542AA16EAD82800BD3F5E /* Foundation.framework in Frameworks */,
 				4E0542AC16EAD82800BD3F5E /* CoreGraphics.framework in Frameworks */,
@@ -56,6 +63,9 @@
 		4E05429816EAD82800BD3F5E = {
 			isa = PBXGroup;
 			children = (
+				4E058124170170F600186FE0 /* Icon2.png */,
+				4E058122170170AF00186FE0 /* Icon.png */,
+				4E0542CA16EB4C8A00BD3F5E /* CoreMotion.framework */,
 				4E0542AD16EAD82800BD3F5E /* acceleration */,
 				4E0542A616EAD82800BD3F5E /* Frameworks */,
 				4E0542A416EAD82800BD3F5E /* Products */,
@@ -164,6 +174,8 @@
 				4E0542BC16EAD82800BD3F5E /* Default@2x.png in Resources */,
 				4E0542BE16EAD82800BD3F5E /* Default-568h@2x.png in Resources */,
 				4E0542C116EAD82800BD3F5E /* MainStoryboard.storyboard in Resources */,
+				4E058123170170AF00186FE0 /* Icon.png in Resources */,
+				4E058125170170F600186FE0 /* Icon2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +305,7 @@
 				4E0542C916EAD82800BD3F5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,362 @@
+Tacceleration
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Info.plist acceleration/acceleration-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/acceleration.app/ResourceRules.plist
+cProcessPCH /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.pth acceleration/acceleration-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.o /Users/Joan/Documents/iOS/acceleration/acceleration/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.o /Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.o /Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration normal armv7
+cGenerateDSYMFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration
+cCopyPNGFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default.png acceleration/Default.png
+cCopyStringsFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj/InfoPlist.strings acceleration/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default@2x.png acceleration/Default@2x.png
+cCopyPNGFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default-568h@2x.png acceleration/Default-568h@2x.png
+cCompileStoryboard /Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/MainStoryboard.storyboard
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000503C83D40000000000000132
+t1346143188
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+c0000000051003B8B0000000000000094
+t1358969739
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+c0000000051003B8B0000000000000096
+t1358969739
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051003B8D0000000000322740
+t1358969741
+s3286848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c0000000051003B8E00000000001D3F40
+t1358969742
+s1916736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051003B8E0000000000629C80
+t1358969742
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051003B8E00000000000015F7
+t1358969742
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051003B900000000000000E8D
+t1358969744
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051003B9400000000011BA850
+t1358969748
+s18589776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c0000000051003B970000000000001B54
+t1358969751
+s6996
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m
+c00000000513AA0A800000000000007E8
+t1362796712
+s2024
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m
+c00000000514073EA0000000000002BE9
+t1363178474
+s11241
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/acceleration-Prefix.pch
+c00000000513AA0A80000000000000147
+t1362796712
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/InfoPlist.strings
+c00000000513AA0A8000000000000002D
+t1362796712
+s45
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/MainStoryboard.storyboard
+c000000005140726A0000000000009C69
+t1363178090
+s40041
+
+N/Users/Joan/Documents/iOS/acceleration/acceleration/main.m
+c00000000513E1BCE000000000000015C
+t1363024846
+s348
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default.png
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default@2x.png
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Info.plist
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/PkgInfo
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.o
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.o
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/acceleration.LinkFileList
+c000000005151364F0000000000000195
+t1364276815
+s405
+
+N/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration.xcent
+t2
+s0
+
+N/Users/Joan/Library/MobileDevice/Provisioning Profiles/CFFB11F6-FAA3-436C-9EDD-761CCC8376E2.mobileprovision
+c000000005151362F000000000000CE99
+t1364276783
+s52889
+
+N/var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.pth
+t2
+s0
+
+Nacceleration/acceleration-Info.plist
+c00000000513AA0A800000000000004D0
+t1362796712
+s1232
+
+CBuild AST from /Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m
+r0
+
+CBuild AST from /Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m
+r0
+
+CBuild AST from /Users/Joan/Documents/iOS/acceleration/acceleration/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc286f7ce6d01b741^9fae22cf6d01b741^---0#1#0#--18"Check dependencies36"8CA1959C-20CE-4FAD-85F8-C558921A9A5E-
+
+CCodeSign /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app
+r0
+
+CCompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.o /Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385969618.989720
+e385969619.418649
+r1
+xCompileC
+xbuild/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.o
+x/Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.mff95fdd26d01b741^3c2d6bd36d01b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m0000000000000000^3518"CompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.o acceleration/accelAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Joan/Documents/iOS/acceleration    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-generated-files.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-own-target-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-all-target-headers.hmap -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-project-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources/armv7 -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources -F/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos -include /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch -MMD -MT dependencies -MF /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.d --serialize-diagnostics /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.dia -c /Users/Joan/Documents/iOS/acceleration/acceleration/accelAppDelegate.m -o /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelAppDelegate.o36"FBFE35A3-C9C7-4603-A16A-7390A5FE5AB6-
+
+CCompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.o /Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385969618.989733
+e385969619.485835
+r1
+xCompileC
+xbuild/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.o
+x/Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.mff95fdd26d01b741^2992bfd36d01b741^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m0000000000000000^3536"CompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.o acceleration/accelViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Joan/Documents/iOS/acceleration    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-generated-files.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-own-target-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-all-target-headers.hmap -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-project-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources/armv7 -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources -F/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos -include /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch -MMD -MT dependencies -MF /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.d --serialize-diagnostics /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.dia -c /Users/Joan/Documents/iOS/acceleration/acceleration/accelViewController.m -o /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/accelViewController.o36"C217EFCF-114D-41A3-9D6C-FC166C3383EF-
+
+CCompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.o /Users/Joan/Documents/iOS/acceleration/acceleration/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385969618.989722
+e385969619.416244
+r1
+xCompileC
+xbuild/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.o
+x/Users/Joan/Documents/iOS/acceleration/acceleration/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/Joan/Documents/iOS/acceleration/acceleration/main.m7496fdd26d01b741^72a56ad36d01b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/main.m0000000000000000^3446"CompileC build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.o acceleration/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Joan/Documents/iOS/acceleration    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-generated-files.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-own-target-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-all-target-headers.hmap -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-project-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources/armv7 -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources -F/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos -include /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch -MMD -MT dependencies -MF /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.dia -c /Users/Joan/Documents/iOS/acceleration/acceleration/main.m -o /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/main.o36"DDCD460A-EDB6-4A0C-A7B8-0E7F6205D2BD-
+
+CCompileStoryboard /Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/MainStoryboard.storyboard
+s385969622.134598
+e385969634.305109
+r1
+xCompileStoryboard
+x/Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/MainStoryboard.storyboard
+o2013-03-26 13:47:10.907 Interface Builder Cocoa Touch Tool[4318:f07] CFPreferences: user home directory at file://localhost/Users/Joan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2013-03-26 13:47:13.842 Interface Builder Cocoa Touch Tool[4318:f07] -[UIPickerView setFrame:]: invalid height value 0.0 pinned to 162.0 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard acceleration/en.lproj/MainStoryboard.storyboard739d22d66d01b741^1f2d4ee26d01b741^-372"2013-03-26 13:47:10.907 Interface Builder Cocoa Touch Tool[4318:f07] CFPreferences: user home directory at file://localhost/Users/Joan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2013-03-26 13:47:13.842 Interface Builder Cocoa Touch Tool[4318:f07] -[UIPickerView setFrame:]: invalid height value 0.0 pinned to 162.0-0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/MainStoryboard.storyboard0000000000000000^886"CompileStoryboard acceleration/en.lproj/MainStoryboard.storyboard    cd /Users/Joan/Documents/iOS/acceleration    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj/MainStoryboard.storyboardc /Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk36"C8A5722C-1559-4E0C-B9F7-6873072EA090-
+
+CCopyPNGFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default-568h@2x.png acceleration/Default-568h@2x.png
+s385969622.097568
+e385969622.550631
+r1
+xCopyPNGFile
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default-568h@2x.png
+xacceleration/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CopyPNGFile build/Debug-iphoneos/acceleration.app/Default-568h@2x.png acceleration/Default-568h@2x.png426019d66d01b741^7bf68cd66d01b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/Default-568h@2x.png0000000000000000^628"CopyPNGFile "build/Debug-iphoneos/acceleration.app/Default-568h@2x.png" "acceleration/Default-568h@2x.png"    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Joan/Documents/iOS/acceleration/acceleration/Default-568h@2x.png" "/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default-568h@2x.png"36"B128794D-E147-46FC-8432-E08BEF152820-
+
+CCopyPNGFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default.png acceleration/Default.png
+s385969622.097154
+e385969622.422027
+r1
+xCopyPNGFile
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default.png
+xacceleration/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile build/Debug-iphoneos/acceleration.app/Default.png acceleration/Default.png271119d66d01b741^1a6a6cd66d01b741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/Default.png0000000000000000^588"CopyPNGFile build/Debug-iphoneos/acceleration.app/Default.png acceleration/Default.png    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/Joan/Documents/iOS/acceleration/acceleration/Default.png /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default.png36"0B0973F6-DF6A-4CEF-9DB4-CD91EFC043A0-
+
+CCopyPNGFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default@2x.png acceleration/Default@2x.png
+s385969622.097274
+e385969622.528648
+r1
+xCopyPNGFile
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default@2x.png
+xacceleration/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile build/Debug-iphoneos/acceleration.app/Default@2x.png acceleration/Default@2x.png960719d66d01b741^6a6c87d66d01b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/Default@2x.png0000000000000000^608"CopyPNGFile "build/Debug-iphoneos/acceleration.app/Default@2x.png" "acceleration/Default@2x.png"    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/Joan/Documents/iOS/acceleration/acceleration/Default@2x.png" "/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Default@2x.png"36"0464FE95-6D28-4768-972F-98A931CD0EA0-
+
+CCopyStringsFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj/InfoPlist.strings acceleration/en.lproj/InfoPlist.strings
+s385969622.097258
+e385969622.133034
+r1
+xCopyStringsFile
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj/InfoPlist.strings
+xacceleration/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy acceleration/en.lproj/InfoPlist.strings740719d66d01b741^392722d66d01b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/en.lproj/InfoPlist.strings0000000000000000^574"CopyStringsFile build/Debug-iphoneos/acceleration.app/en.lproj/InfoPlist.strings acceleration/en.lproj/InfoPlist.strings    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/en.lproj -- acceleration/en.lproj/InfoPlist.strings36"3DF3B301-EAAE-463F-B915-83305BFCCE26-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/acceleration.app/ResourceRules.plist
+s385969615.217078
+e385969615.221671
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/acceleration.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphoneos/acceleration.app/ResourceRules.plistc6c337cf6d01b741^1bbb40cf6d01b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/ResourceRules.plist000000000080d041^736"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/acceleration.app/ResourceRules.plist    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app36"1457F548-EF2C-4493-ADC5-466A7CD19AB0-
+
+CGenerateDSYMFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration
+s385969621.989527
+e385969622.088989
+r1
+xGenerateDSYMFile
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Generating /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM6f80fdd56d01b741^93c816d66d01b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM000000000080d041^620"GenerateDSYMFile build/Debug-iphoneos/acceleration.app.dSYM build/Debug-iphoneos/acceleration.app/acceleration    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration -o /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app.dSYM36"5FCFB6E6-9FBC-47FF-BD6C-BD0F3A214CCB-
+
+CLd /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration normal armv7
+s385969619.492722
+e385969621.982584
+r1
+xLd
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Link /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/accelerationcb4b7ed36d01b741^a1a1fbd56d01b741^---0#0#0#--1091"Ld build/Debug-iphoneos/acceleration.app/acceleration normal armv7    cd /Users/Joan/Documents/iOS/acceleration    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos -F/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos -filelist /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/Objects-normal/armv7/acceleration.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.0 -framework CoreMotion -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/acceleration36"B95AC36B-E6D8-4548-B730-BAB67D9217C4-
+
+CProcessInfoPlistFile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Info.plist acceleration/acceleration-Info.plist
+s385969615.217075
+e385969615.246333
+r1
+xProcessInfoPlistFile
+x/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Info.plist
+xacceleration/acceleration-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process acceleration/acceleration-Info.plist65c637cf6d01b741^b6be40cf6d01b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/acceleration-Info.plist0000000000000000^766"ProcessInfoPlistFile build/Debug-iphoneos/acceleration.app/Info.plist acceleration/acceleration-Info.plist    cd /Users/Joan/Documents/iOS/acceleration    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility acceleration/acceleration-Info.plist -genpkginfo /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/ResourceRules.plist -o /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/Info.plist36"80E2777D-7422-4C72-8796-1B7CC570F37E-
+
+CProcessPCH /Users/Joan/Library/Developer/Xcode/DerivedData/acceleration-gqfkpfopvjarvucieaoiafjhzcqd/Index/PrecompiledHeaders/acceleration-Prefix-fiqwdklusvopgwcfqnjkmbheywhn_ast/acceleration-Prefix.pch.pth acceleration/acceleration-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.pth acceleration/acceleration-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385969615.254342
+e385969618.982672
+r1
+xProcessPCH
+x/var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.pth
+xacceleration/acceleration-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile acceleration/acceleration-Prefix.pchf14b41cf6d01b741^698ffbd26d01b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Joan/Documents/iOS/acceleration/acceleration/acceleration-Prefix.pch0000000000000000^3528"ProcessPCH /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.pth acceleration/acceleration-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Joan/Documents/iOS/acceleration    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-generated-files.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-own-target-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-all-target-headers.hmap -iquote /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration-project-headers.hmap -I/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources/armv7 -I/Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/DerivedSources -F/Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos --serialize-diagnostics /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.dia -c /Users/Joan/Documents/iOS/acceleration/acceleration/acceleration-Prefix.pch -o /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/5x/b6gh1fmd76s2g98swrs9q4yc0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/acceleration-Prefix-dwqhgrydzzgayfcztjqmpmfmkjyd/acceleration-Prefix.pch.d36"37948828-DF8D-4A2F-8A23-A386AFAA3D5E-
+
+CProcessProductPackaging "/Users/Joan/Library/MobileDevice/Provisioning Profiles/CFFB11F6-FAA3-436C-9EDD-761CCC8376E2.mobileprovision" /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist /Users/Joan/Documents/iOS/acceleration/build/acceleration.build/Debug-iphoneos/acceleration.build/acceleration.xcent
+r0
+
+CTouch /Users/Joan/Documents/iOS/acceleration/build/Debug-iphoneos/acceleration.app
+r0
+
